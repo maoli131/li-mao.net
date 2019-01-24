@@ -281,6 +281,12 @@ ul#nav li.current a { color: #F06000; }
    margin-top: 6px;
 }
 
+#resume br {
+   display: block;
+   margin: 10px 0;
+   content: " ";
+}
+
 /*----------------------------------------------*/
 /*	Skill Bars
 /*----------------------------------------------*/
